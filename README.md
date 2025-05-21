@@ -2,7 +2,7 @@
 
 
 ## Overview
-This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
+The primary goal of this project is to perform an in-depth analysis of Netflix’s catalog of movies and TV shows using SQL. By exploring and querying the dataset, the project aims to uncover meaningful insights and answer key business questions that can inform content strategy, market trends, and user preferences. This project demonstrates the practical application of SQL for data exploration, data cleaning, and business intelligence.
 
 ## Objectives
 
@@ -257,26 +257,9 @@ GROUP BY category;
 
 ## Findings and Conclusion
 
-- **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
-- **Common Ratings:** Insights into the most common ratings provide an understanding of the content's target audience.
-- **Geographical Insights:** The top countries and the average content releases by India highlight regional content distribution.
-- **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
+In this project, I conducted a comprehensive SQL-based analysis of Netflix's movies and TV shows dataset to extract key insights and answer business-critical questions. I explored the distribution of content types, analyzed content ratings, and examined trends in content addition over the years. The analysis identified top contributing countries, directors, and actors, with a particular focus on Indian content. I also assessed genre popularity, filtered specific types of content such as documentaries and multi-season TV shows, and highlighted data gaps like missing directors. Additionally, I used keyword-based content categorization to evaluate thematic patterns in descriptions. Overall, this project demonstrated how SQL can effectively uncover patterns, trends, and business opportunities in a streaming platform’s content library
 
 
-## Author - Zero Analyst
-
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
-
-### Stay Updated and Join the Community
-
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
-
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
-- **Discord**: [Join our community to learn and grow together](https://discord.gg/36h5f2Z5PK)
-
-Thank you for your support, and I look forward to connecting with you!
